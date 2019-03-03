@@ -1,0 +1,3 @@
+O(1) time. always accesses top of stack, and top of stack of stacks.
+O(1) space for operations.
+O(n) space for storage, where n is the number of elements

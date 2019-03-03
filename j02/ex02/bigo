@@ -1,0 +1,3 @@
+O(n^2) time worst case, if partition always picks highest or lowest element
+O(nlogn) time average/best
+O(1) space

@@ -1,0 +1,2 @@
+O(nm) time, where n is the length of the book, and m is the length of the substring
+O(1) space

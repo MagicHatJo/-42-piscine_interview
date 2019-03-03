@@ -1,0 +1,5 @@
+O(n log n) time, The average quicksort takes n log n, where n is the number of items.
+O(n^2) time for worst case performance.
+
+O(1) space for in place implementation
+qsort is preferred over merge sort for arrays due to arrays needing O(n) space for merging arrays

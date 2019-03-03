@@ -1,0 +1,2 @@
+O(logn) time. Iterate to find pivot, and operate with binary (logn)
+O(1) space.

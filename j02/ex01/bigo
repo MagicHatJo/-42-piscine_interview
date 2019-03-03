@@ -1,0 +1,2 @@
+O(n^2) time, where n is number of elements
+O(1) space, it is sorted in place

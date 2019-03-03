@@ -1,0 +1,2 @@
+O(n) time, where n is number of variables)
+O(1) space. no additional space apart from the clone return

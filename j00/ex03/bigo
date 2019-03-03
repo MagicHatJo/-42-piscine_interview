@@ -1,0 +1,2 @@
+O(n) time, time is the number of elements in the hash
+O(n) space, where n is the number of elements in the hash
